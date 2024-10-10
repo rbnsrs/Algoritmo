@@ -33,6 +33,13 @@ Portanto, após revisar uma solução de exercício, recomendamos que você faç
   </p>
 </div>
 
+<div>
+  <p align='left'>
+    Os principais materiais para este estudo são vídeos aulas do YouTube e livros. São vídeos aulas gratuitas de cursos de lógica de programação e livros sobre Algoritmos e Lógica de Programação. Existem diversos livros e 
+    canais no YouTube. Não vou indicar um canal específico ou livro. Escolha aquele que melhor se adapte e comece a praticar! Há muitas opções, então vamos lá!
+  </p>
+</div>
+
 <br>
 
 </div>
