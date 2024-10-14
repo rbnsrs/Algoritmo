@@ -30,6 +30,7 @@ Portanto, após revisar uma solução de exercício, recomendamos que você faç
     <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src= "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src= "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualG&logoColor=white">
   </p>
 </div>
 
